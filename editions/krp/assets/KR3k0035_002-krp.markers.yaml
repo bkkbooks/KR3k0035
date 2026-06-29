@@ -1,0 +1,142 @@
+canonical_identifier: bkk:krp/KR3k0035/krp/v1/markers/2
+seq: 2
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3k0035_SBCK_002-1a01}
+  - {type: variant, offset: 0, length: 335, content: 余向蔵古賢小字錄係昭文郡朖僊贈余者云以青蚨三星淂淂書攤者陳思纂次一行後多崑山後學吴大有較刋一行此冊無無始猶疑其板刻有異細審之皆活字板而前所淂者為後印兹所淂者為初印也何以明明蓋此板後帰吴氏故增入一行其收易原書一行以姓劉二字移宋髙祖武帝下而去氏字又去小注宋本紀三字以遷就之其痕迩顯然兹冊古色古香初入眼疑為舊刻故書友欲以充宋元版余六因其古而岀番餅二枚易易重付裝潢可渭好事矣辛未十月二十有五日𣸪翁記慧震即以所得故爲小字卦折故校師利揔適岀揔折揔校鎮惡事騎冲没陣陷折没校豹奴恒逾不悦恒折恒校崖遂不得佳者園云折遂放曰徳之体明僧崖折曰上校斑獸常日早晚增視折日上校此入比折此校慮其不法去折法校巳上係舊箴本紅筆校正之字文理差順附錄滿考彼荅尾皆以古賢小字錄標題此但曰小字錄必修本增加也𣸪翁又記, WYG: ''}
+  - {type: 'kr:newline', offset: 17, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl2}
+  - {type: line-break, offset: 17, content: '', id: KR3k0035_SBCK_002-1a02}
+  - {type: 'kr:newline', offset: 34, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl3}
+  - {type: line-break, offset: 34, content: '', id: KR3k0035_SBCK_002-1a03}
+  - {type: 'kr:newline', offset: 52, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl4}
+  - {type: line-break, offset: 52, content: '', id: KR3k0035_SBCK_002-1a04}
+  - {type: 'kr:newline', offset: 69, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl5}
+  - {type: line-break, offset: 69, content: '', id: KR3k0035_SBCK_002-1a05}
+  - {type: variant, offset: 75, length: 1, content: 所, SBCK: 􅀁}
+  - {type: 'kr:newline', offset: 86, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl6}
+  - {type: line-break, offset: 86, content: '', id: KR3k0035_SBCK_002-1a06}
+  - {type: 'kr:newline', offset: 103, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl7}
+  - {type: line-break, offset: 103, content: '', id: KR3k0035_SBCK_002-1a07}
+  - {type: 'kr:newline', offset: 120, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl8}
+  - {type: line-break, offset: 120, content: '', id: KR3k0035_SBCK_002-1a08}
+  - {type: 'kr:newline', offset: 137, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl9}
+  - {type: line-break, offset: 137, content: '', id: KR3k0035_SBCK_002-1a09}
+  - {type: 'kr:newline', offset: 152, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl10}
+  - {type: page-break, offset: 152, content: '', id: KR3k0035_SBCK_002-1b}
+  - {type: 'kr:newline', offset: 152, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl11}
+  - {type: line-break, offset: 152, content: '', id: KR3k0035_SBCK_002-1b01}
+  - {type: 'kr:newline', offset: 169, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl12}
+  - {type: line-break, offset: 169, content: '', id: KR3k0035_SBCK_002-1b02}
+  - {type: 'kr:newline', offset: 185, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl13}
+  - {type: line-break, offset: 185, content: '', id: KR3k0035_SBCK_002-1b03}
+  - {type: variant, offset: 192, length: 1, content: 𣸪, SBCK: 􅂧}
+  - {type: 'kr:newline', offset: 195, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl14}
+  - {type: line-break, offset: 195, content: '', id: KR3k0035_SBCK_002-1b04}
+  - {type: punctuation, offset: 205, content: (, id: KR3k0035_krp_002-bkkpn1}
+  - {type: 'kr:non-cjk', offset: 206, content: <, id: KR3k0035_krp_002-bkkkrnonc1}
+  - {type: 'kr:non-cjk', offset: 207, content: t="33", id: KR3k0035_krp_002-bkkkrnonc2}
+  - {type: punctuation, offset: 207, content: /, id: KR3k0035_krp_002-bkkpn2}
+  - {type: 'kr:non-cjk', offset: 207, content: '>', id: KR3k0035_krp_002-bkkkrnonc3}
+  - {type: punctuation, offset: 209, content: ), id: KR3k0035_krp_002-bkkpn3}
+  - {type: punctuation, offset: 214, content: (, id: KR3k0035_krp_002-bkkpn4}
+  - {type: 'kr:non-cjk', offset: 215, content: <, id: KR3k0035_krp_002-bkkkrnonc4}
+  - {type: 'kr:non-cjk', offset: 216, content: t="33", id: KR3k0035_krp_002-bkkkrnonc5}
+  - {type: punctuation, offset: 216, content: /, id: KR3k0035_krp_002-bkkpn5}
+  - {type: 'kr:non-cjk', offset: 216, content: '>', id: KR3k0035_krp_002-bkkkrnonc6}
+  - {type: punctuation, offset: 218, content: ), id: KR3k0035_krp_002-bkkpn6}
+  - {type: 'kr:newline', offset: 220, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl15}
+  - {type: line-break, offset: 220, content: '', id: KR3k0035_SBCK_002-1b05}
+  - {type: variant, offset: 221, length: 1, content: 騎, SBCK: 􅀐}
+  - {type: punctuation, offset: 225, content: (, id: KR3k0035_krp_002-bkkpn7}
+  - {type: 'kr:non-cjk', offset: 226, content: <, id: KR3k0035_krp_002-bkkkrnonc7}
+  - {type: 'kr:non-cjk', offset: 227, content: t="33", id: KR3k0035_krp_002-bkkkrnonc8}
+  - {type: punctuation, offset: 227, content: /, id: KR3k0035_krp_002-bkkpn8}
+  - {type: 'kr:non-cjk', offset: 227, content: '>', id: KR3k0035_krp_002-bkkkrnonc9}
+  - {type: punctuation, offset: 229, content: ), id: KR3k0035_krp_002-bkkpn9}
+  - {type: punctuation, offset: 235, content: (, id: KR3k0035_krp_002-bkkpn10}
+  - {type: 'kr:non-cjk', offset: 236, content: <, id: KR3k0035_krp_002-bkkkrnonc10}
+  - {type: 'kr:non-cjk', offset: 237, content: t="33", id: KR3k0035_krp_002-bkkkrnonc11}
+  - {type: punctuation, offset: 237, content: /, id: KR3k0035_krp_002-bkkpn11}
+  - {type: 'kr:non-cjk', offset: 237, content: '>', id: KR3k0035_krp_002-bkkkrnonc12}
+  - {type: punctuation, offset: 239, content: ), id: KR3k0035_krp_002-bkkpn12}
+  - {type: punctuation, offset: 245, content: (, id: KR3k0035_krp_002-bkkpn13}
+  - {type: 'kr:non-cjk', offset: 247, content: <, id: KR3k0035_krp_002-bkkkrnonc13}
+  - {type: 'kr:non-cjk', offset: 248, content: t="33", id: KR3k0035_krp_002-bkkkrnonc14}
+  - {type: punctuation, offset: 248, content: /, id: KR3k0035_krp_002-bkkpn14}
+  - {type: 'kr:non-cjk', offset: 248, content: '>', id: KR3k0035_krp_002-bkkkrnonc15}
+  - {type: punctuation, offset: 250, content: ), id: KR3k0035_krp_002-bkkpn15}
+  - {type: 'kr:newline', offset: 251, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl16}
+  - {type: line-break, offset: 251, content: '', id: KR3k0035_SBCK_002-1b06}
+  - {type: punctuation, offset: 255, content: (, id: KR3k0035_krp_002-bkkpn16}
+  - {type: 'kr:non-cjk', offset: 257, content: <, id: KR3k0035_krp_002-bkkkrnonc16}
+  - {type: 'kr:non-cjk', offset: 258, content: t="33", id: KR3k0035_krp_002-bkkkrnonc17}
+  - {type: punctuation, offset: 258, content: /, id: KR3k0035_krp_002-bkkpn17}
+  - {type: 'kr:non-cjk', offset: 258, content: '>', id: KR3k0035_krp_002-bkkkrnonc18}
+  - {type: punctuation, offset: 261, content: ), id: KR3k0035_krp_002-bkkpn18}
+  - {type: punctuation, offset: 267, content: (, id: KR3k0035_krp_002-bkkpn19}
+  - {type: 'kr:non-cjk', offset: 269, content: <, id: KR3k0035_krp_002-bkkkrnonc19}
+  - {type: 'kr:non-cjk', offset: 270, content: t="33", id: KR3k0035_krp_002-bkkkrnonc20}
+  - {type: punctuation, offset: 270, content: /, id: KR3k0035_krp_002-bkkpn20}
+  - {type: 'kr:non-cjk', offset: 270, content: '>', id: KR3k0035_krp_002-bkkkrnonc21}
+  - {type: punctuation, offset: 273, content: ), id: KR3k0035_krp_002-bkkpn21}
+  - {type: punctuation, offset: 275, content: (, id: KR3k0035_krp_002-bkkpn22}
+  - {type: 'kr:non-cjk', offset: 276, content: <, id: KR3k0035_krp_002-bkkkrnonc22}
+  - {type: 'kr:non-cjk', offset: 277, content: t="33", id: KR3k0035_krp_002-bkkkrnonc23}
+  - {type: punctuation, offset: 277, content: /, id: KR3k0035_krp_002-bkkpn23}
+  - {type: 'kr:non-cjk', offset: 277, content: '>', id: KR3k0035_krp_002-bkkkrnonc24}
+  - {type: punctuation, offset: 279, content: ), id: KR3k0035_krp_002-bkkpn24}
+  - {type: punctuation, offset: 283, content: (, id: KR3k0035_krp_002-bkkpn25}
+  - {type: 'kr:non-cjk', offset: 284, content: <, id: KR3k0035_krp_002-bkkkrnonc25}
+  - {type: 'kr:non-cjk', offset: 285, content: t="33", id: KR3k0035_krp_002-bkkkrnonc26}
+  - {type: punctuation, offset: 285, content: /, id: KR3k0035_krp_002-bkkpn26}
+  - {type: 'kr:non-cjk', offset: 285, content: '>', id: KR3k0035_krp_002-bkkkrnonc27}
+  - {type: punctuation, offset: 287, content: ), id: KR3k0035_krp_002-bkkpn27}
+  - {type: 'kr:newline', offset: 287, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl17}
+  - {type: line-break, offset: 287, content: '', id: KR3k0035_SBCK_002-1b07}
+  - {type: 'kr:newline', offset: 311, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl18}
+  - {type: line-break, offset: 311, content: '', id: KR3k0035_SBCK_002-1b08}
+  - {type: indent, offset: 331, content: 　, id: KR3k0035_krp_002-bkkind1}
+  - {type: variant, offset: 331, length: 1, content: 𣸪, SBCK: 􅂧}
+  - {type: 'kr:newline', offset: 335, content: '
+
+      ', id: KR3k0035_krp_002-bkkkrnewl19}
+  back: []
+hash: sha256:029cd364940ffc343d968fc83b3656997f3edb3483e4d928785a4cb522e03056

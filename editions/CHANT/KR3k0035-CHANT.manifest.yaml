@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3k0035/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3k0035/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小字錄
+  identifiers:
+    krp: KR3k0035
+  tags:
+    kr-categories: KR3k
+  source:
+    repository: tls-texts
+    path: data/tls/KR3k0035.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3k0035_001-CHANT.yaml, hash: 'sha256:5695352fca4576ebc4868583aa6074950e2fe8c9a85f5f3fbf32e615d9a507ec'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3k0035_001-CHANT.markers.yaml, hash: 'sha256:140209d3c43f812a84799078dd9e9e80c67a43b2a3e78962d732b8f486c96e98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3k0035_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 11243
+  label: 歷代帝王
+  type: section
+  level: 1
+hash: sha256:c1df457d3cbb0fcdb189135429e6c33236e01bc9d7bbe7a48dc499f9ed14eede

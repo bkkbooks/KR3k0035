@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3k0035/WYG/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 撰
+  hash: sha256:6c5ae9564292c109a98624cf08856367b16e5d2522cee022cc1426a225739c9a
+metadata:
+  title: 小字錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:08:36.671932'
+  source:
+    repository: kanripo
+    path: KR3k0035/KR3k0035_001.txt
+hash: sha256:9ae997e1e81b17afd260a19c37d284868ea7a815ec1f2eede24f272b68d2a6c2
