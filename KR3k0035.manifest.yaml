@@ -22,9 +22,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3k0035_001.yaml, hash: 'sha256:50a67efc13c458c72d608660580ae66373dc00fed3fc95aafc5594a91cc55836'}
+  - {seq: 1, filename: KR3k0035_001.yaml, hash: 'sha256:5695352fca4576ebc4868583aa6074950e2fe8c9a85f5f3fbf32e615d9a507ec'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0035_001.markers.yaml, hash: 'sha256:b1dc1932d1ebc0c8c4da68d3b270a05eea3de4da4775b7fd72e6212dda513792'}
+  - {seq: 1, role: markers, filename: assets/KR3k0035_001.markers.yaml, hash: 'sha256:614444e0d166303a85e8b2c368c50840bd72f04ba80ea0df2d8e4ebf61f683d8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +36,4 @@ table_of_contents:
   label: 歷代帝王
   type: section
   level: 1
-hash: sha256:b9e36826d4d9f6478434893e470847048b685066f20a43d17a4e91d98fedc1f8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4df1d67f59f69bbdfacc5aeb0e43a60e965494cb919cc38d03de874c69164b87
