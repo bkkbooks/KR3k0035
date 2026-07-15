@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3k0035/v1
 canonical_location: https://kanripo.org/bkk/KR3k0035/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 小字錄
   identifiers:
@@ -22,9 +22,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3k0035_001.yaml, hash: 'sha256:5695352fca4576ebc4868583aa6074950e2fe8c9a85f5f3fbf32e615d9a507ec'}
+  - {seq: 1, filename: KR3k0035_001.yaml, hash: 'sha256:6e282a4f75795663dc27f47a337de7be940a87cc8808f670e9150177d92167f8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0035_001.markers.yaml, hash: 'sha256:614444e0d166303a85e8b2c368c50840bd72f04ba80ea0df2d8e4ebf61f683d8'}
+  - {seq: 1, role: markers, filename: assets/KR3k0035_001.markers.yaml, hash: 'sha256:9622be733e35ef780d8bbcf4061da750ff586b674c74129f3a33641c0cce63e3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,4 +36,7 @@ table_of_contents:
   label: 歷代帝王
   type: section
   level: 1
-hash: sha256:4df1d67f59f69bbdfacc5aeb0e43a60e965494cb919cc38d03de874c69164b87
+hash: sha256:b453cc58e7f5cc3d04d08467ec412768180b52b7fea87bb48ff4beee7f2497f7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
